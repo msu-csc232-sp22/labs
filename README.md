@@ -2,7 +2,7 @@
 
 |Lab|Topic                                               |GitHub Classroom Assignment Link                                                  |
 |--:|:---------------------------------------------------|:---------------------------------------------------------------------------------|
-| 0a|Tools of the Trade (GitHub)                         |[https://classroom.github.com/a/QVKz3olt](https://classroom.github.com/a/QVKz3olt)|
+| 0a|Tools of the Trade (Git & GitHub Essentials)        |[https://classroom.github.com/a/QVKz3olt](https://classroom.github.com/a/QVKz3olt)|
 | 0b|Tools of the Trade (Development Tools)              |TBD                                                                               |
 | 01|Arrays and Addresses                                |TBD                                                                               |
 | 02|Recursion (Machine Tracing)                         |TBD                                                                               |
